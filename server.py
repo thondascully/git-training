@@ -6,4 +6,4 @@ import SPR
 
 while True:
     SPR.calculateSPRs()
-    time.sleep(5)
+    time.sleep(15)
